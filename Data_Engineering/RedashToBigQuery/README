@@ -1,0 +1,6 @@
+# Redash to BigQuery Automation
+
+This project is designed to automate the process of retrieving queries from Redash, translating them into a format compatible with BigQuery, and importing them into BigQuery. The goal is to streamline the migration of analytics workflows and ensure seamless integration between Redash and BigQuery.
+
+
+This project demonstrates your ability to automate data engineering workflows and integrate different analytics platforms efficiently.
