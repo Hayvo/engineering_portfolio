@@ -1,0 +1,8 @@
+var
+**/__pycache__/
+**/migrations/
+temp/
+.env
+journalsConfig/
+r.txt
+journal_event_mapping.json
